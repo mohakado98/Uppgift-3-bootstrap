@@ -1,0 +1,80 @@
+#ww{
+    height: 750px;
+    background-image: url(urban-438393_1280.jpg);
+    background: cover;
+    background-repeat: no-repeat
+}
+
+#ww img {
+    height: 100%;
+}
+
+#www {
+    background-color: rgba(48, 0, 0, 0.212);
+}
+
+#text h1{
+    text-align: center;
+    margin-top: 185px;
+    color: white;
+    font-size: 50px;
+}
+
+main {
+    background-color: rgb(22, 12, 12);
+}
+
+.d-block {
+    height: 500px;
+    width: 800px;
+    border-radius: 15px;
+    margin-top: 35px;
+}
+
+.mb-10px {
+    margin-bottom: 10px !important;
+}
+
+.mx-0{
+    margin-top: 35px;
+}
+
+#parallax{
+    background-image: url(StoreClifford1.jpg);
+    height: 50vh;
+    background-size:cover;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30PX;
+    }
+
+#parallax p {
+    font-family: 'Kalam', cursive;
+    width: 394px;
+    text-align: center;
+    color: white;
+    
+    font-size: 18px;
+}
+
+#parallax .tagline {
+
+    padding: 25px 0px;
+    background-color: rgba(48, 0, 0, 0.411);
+    border-radius: 10px;
+    }
+
+#contact {
+    background-color: white;
+    margin: auto;
+    }
+
+#footer{
+        background-color: rgb(22, 12, 12);
+        color: white;
+        padding: 10px;
+    }
+    
+    
