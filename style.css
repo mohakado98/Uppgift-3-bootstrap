@@ -1,7 +1,7 @@
 #ww{
     height: 750px;
     background-image: url(urban-438393_1280.jpg);
-    background: cover;
+    background-size: cover;
     background-repeat: no-repeat
 }
 
